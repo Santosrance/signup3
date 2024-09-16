@@ -1,0 +1,17 @@
+body{
+    background:url(loll.gif);
+    background-position: center;
+    background-size: cover; width: center;
+    background-attachment: fixed;
+    background-repeat: no repeat;
+}
+button:last-child {
+    background-color: #f44336;
+}
+
+button:last-child:hover {
+    background-color: #e53935;
+}
+h3{
+    color: antiquewhite;
+}
